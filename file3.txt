@@ -2,4 +2,7 @@ taghire 1
 taghire 2
 khate 3
 khate 4
+khate 5
+khate 6
+khate 7
 
