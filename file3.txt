@@ -1,3 +1,5 @@
 taghire 1
 taghire 2
+khate 3
+khate 4
 
